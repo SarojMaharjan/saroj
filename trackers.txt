@@ -1,8 +1,3 @@
-badhi batho hun6as
-
-
-
-
 http://tracker2.istole.it:60500/announce
 
 http://inferno.demonoid.com:3407/announce
